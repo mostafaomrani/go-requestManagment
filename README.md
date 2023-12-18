@@ -22,3 +22,20 @@ To run this example, ensure you have Go installed. Then, clone this repository:
 git clone https://github.com/mostafaomrani/go-requestManagment
 cd requestManagment
 go run main.go
+
+
+
+
+
+## About Mostafa Omrani
+
+Software Developer
+
+Experienced web developer, astute and deadline-driven, with strong understanding of programming principles coupled with creative ideas.
+- Strong skills in backend technologies including PHP,Laravel,Go Lang,Python,Vanilla JavaScript, Vue, HTML, CSS
+- Proficient with Go with Gin and Mongo DB
+- Extensive knowledge of PHP with Laravel framework.
+- Proficient with relational databases including MySQL, SQL Server.
+- Able to work with REST APIs and microservices.
+- Able to work with GNU/Linux .
+- Comfortable working with a team and using a version control system like Git.
