@@ -4,7 +4,7 @@ This repository contains an example of using a mux (multiplexer) router in Go fo
 
 ## Overview
 
-The Go language provides several packages for managing routes and directing incoming HTTP requests to their respective handlers. This example utilizes the `gorilla/mux` package, a popular choice for routing in Go web applications.
+The Go language provides several packages for managing routes and directing incoming HTTP requests to their respective handlers. This example utilizes the `net/http` package, a popular choice for routing in Go web applications.
 
 ## Usage
 
