@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://mostafaomrani.ir" target="_blank">
+    <img src="[https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://mostafaomrani.ir/assets/images/profile_image.jpg)" width="400" alt="mostafa omrani">
+  </a>
+</p>
+
 # Go Mux Handler Example
 
 This repository contains an example of using a mux (multiplexer) router in Go for handling HTTP requests.
@@ -16,8 +22,3 @@ To run this example, ensure you have Go installed. Then, clone this repository:
 git clone https://github.com/mostafaomrani/go-requestManagment
 cd requestManagment
 go run main.go
-
-
-[Mostafa Omrani](https://mostafaomrani.ir)
-
-[OpenAI](https://www.openai.com "OpenAI's Official Website")
