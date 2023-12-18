@@ -19,3 +19,5 @@ go run main.go
 
 
 [Mostafa Omrani](https://mostafaomrani.ir)
+
+[OpenAI](https://www.openai.com "OpenAI's Official Website")
